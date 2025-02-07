@@ -1,10 +1,14 @@
 # Kotlin_Click
 
+
+
+## Effect
+
+[output](output.jpg)
+
 ## Prepare
 
 - [Install AS}(https://www.androiddevtools.cn/#google_vignette)
-
-
 
 - Config git
 ```
@@ -65,7 +69,7 @@ https://mirrors.cloud.tencent.com/gradle/gradle-8.0-all.zip
 ```
 
 ## Log
-
+<pre>
 Download https://mirrors.aliyun.com/macports/distfiles/gradle/gradle-8.10.2-bin.zip, took 4 s 291 ms
 Starting Gradle Daemon...
 Gradle Daemon started in 939 ms
@@ -1005,7 +1009,7 @@ You can use '--warning-mode all' to show the individual deprecation warnings and
 For more on this, please refer to https://docs.gradle.org/8.10.2/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
 
 BUILD SUCCESSFUL in 2h 54m 11s
-
+</pre>
 ```
 ## License
 MIT
