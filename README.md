@@ -4,7 +4,7 @@
 
 ## Effect
 
-[output](output.jpg)
+[output](output.png)
 
 ## Prepare
 
